@@ -79,7 +79,7 @@ Contribuições são sempre bem-vindas! Sinta-se livre para abrir uma issue ou e
   <img src="https://img1.picmix.com/output/stamp/normal/0/5/4/8/1968450_1c491.gif" height="150" alt="Thanks Gif">
 </p>
 
-<p align="center"><b>Feito com ❤️ por você.</b></p>
+<p align="center"><b>Feito com ❤️ para você.</b></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Visualiza%C3%A7%C3%B5es" alt="Contador de visualizações">
 </p>
