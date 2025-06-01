@@ -27,8 +27,8 @@ O **Discord Checker** é uma ferramenta em **PHP** que verifica tokens do Discor
 
 ---
 
-## 🌟 Versão Premium (Em Desenvolvimento)
-
+## 🌟 Versão Premium (Finalizada)
+>  `acesse aqui!`-> https://github.com/BarbosaCoder/Discord-Checker-V2
 > Uma **versão premium** está em construção com foco total em **estabilidade e velocidade**!
 
 ✨ **O que muda?**
@@ -39,7 +39,7 @@ O **Discord Checker** é uma ferramenta em **PHP** que verifica tokens do Discor
 
 > 💼 Ideal para uso intensivo ou projetos comerciais
 
-> ⏳ *Disponível em breve...*
+> ⏳ **finalizada!** Acesse gratis.
 
 ---
 
