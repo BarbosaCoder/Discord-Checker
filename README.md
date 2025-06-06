@@ -14,32 +14,33 @@
 
 ---
 
-## ⚙️ Sobre o Projeto
+## ⚙️ About the Project
 
-O **Discord Checker** é uma ferramenta em **PHP** que verifica tokens do Discord diretamente pela API oficial, retornando com clareza se os tokens são válidos, inválidos ou se houve **timeout na resposta**.
+**Discord Checker** is a tool written in **PHP** that checks Discord tokens directly through the official API, clearly showing whether each token is **valid**, **invalid**, or if there was a **timeout** in the response.
 
-🔧 Ideal para desenvolvedores que precisam validar rapidamente grandes listas de tokens.
+🔧 Perfect for developers who need to quickly validate large lists of tokens.
 
-📡 O script mostra logs detalhados e categorizados:
-- ✅ Válido
-- ❌ Inválido
-- 🕒 Timeout/API Offline
+📡 The script provides detailed, categorized logs:
+- ✅ Valid
+- ❌ Invalid
+- 🕒 Timeout / API Offline
 
 ---
 
-## 🌟 Versão Premium (Finalizada)
->  `acesse aqui!`-> https://github.com/BarbosaCoder/Discord-Checker-V2
-> Uma **versão premium** está em construção com foco total em **estabilidade e velocidade**!
+## 🌟 Premium Version (Released)
+> [`Access here!`](https://github.com/BarbosaCoder/Discord-Checker-V2)
 
-✨ **O que muda?**
-- Integração com **proxies rotativos** para evitar bloqueios da API
-- Redução drástica de timeouts
-- Maior taxa de acerto
-- Melhor performance em lote
+A **premium version** has been built focusing on **stability and speed**!
 
-> 💼 Ideal para uso intensivo ou projetos comerciais
+✨ **What’s new?**
+- Integration with **rotating proxies** to avoid API bans
+- Drastically reduced timeouts
+- Higher hit rate
+- Improved batch performance
 
-> ⏳ **finalizada!** Acesse gratis.
+> 💼 Ideal for heavy usage or commercial projects
+
+> ⏳ **Now available!** Free access.
 
 ---
 
@@ -51,7 +52,7 @@ O **Discord Checker** é uma ferramenta em **PHP** que verifica tokens do Discor
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 - PHP 8+
 - cURL
@@ -60,18 +61,18 @@ O **Discord Checker** é uma ferramenta em **PHP** que verifica tokens do Discor
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-Entre em contato para dúvidas, parcerias ou para garantir acesso antecipado à **versão premium**:
+Feel free to reach out for questions, collaborations, or to get early access to the **premium version**:
 
-- 💬 Discord: `barbosa.dev`
-- 🐙 GitHub: [barbosa.dev :D](https://github.com/barbosacoder)
+- 💬 Discord: [`barbosa.dev`](https://discord.com/users/1171874463303686234)
+- 🐙 GitHub: [barbosacoder](https://github.com/barbosacoder)
 
 ---
 
-## 🧠 Contribuindo
+## 🧠 Contributing
 
-Contribuições são sempre bem-vindas! Sinta-se livre para abrir uma issue ou enviar um pull request. 🚀
+Contributions are always welcome! Feel free to open an issue or submit a pull request. 🚀
 
 ---
 
@@ -79,8 +80,8 @@ Contribuições são sempre bem-vindas! Sinta-se livre para abrir uma issue ou e
   <img src="https://img1.picmix.com/output/stamp/normal/0/5/4/8/1968450_1c491.gif" height="150" alt="Thanks Gif">
 </p>
 
-<p align="center"><b>Feito com ❤️ para você.</b></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Visualiza%C3%A7%C3%B5es" alt="Contador de visualizações">
-</p>
+<p align="center"><b>Made with ❤️ for you.</b></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Views" alt="View Counter">
+</p>
