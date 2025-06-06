@@ -83,5 +83,5 @@ Contributions are always welcome! Feel free to open an issue or submit a pull re
 <p align="center"><b>Made with ❤️ for you.</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Views" alt="View Counter">
+    <img src="https://komarev.com/ghpvc/?username=barbosacoder&style=for-the-badge&color=blueviolet&label=Visualiza%C3%A7%C3%B5es" alt="Contador de visualizações">
 </p>
